@@ -1,4 +1,4 @@
-# Weather-REact-App
+# Weather-React-App
 
 open cmd and go to your directory where you want to place the project folder.
 Then run the command : npm create-react-app <your app_name without angular brackets>.
